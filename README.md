@@ -1,2 +1,2 @@
-# Programaci-n-1
+# Programacion-1
 Introducción a la Programación Cuatri I
